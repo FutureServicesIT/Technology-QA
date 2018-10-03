@@ -9,5 +9,5 @@ That
 
 ## Index
 
-* [Automation](content/automation-devops)
-* [Identity Management](content/identity-management)
+* [Automation](/Technology-QA/content/automation-devops)
+* [Identity Management](/Technology-QA/content/identity-management)
