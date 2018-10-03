@@ -1,6 +1,5 @@
 ---
 title: What is Multi-Factor Authentication? (MFA or 2FA)
-layout: post
 ---
 
 ## What kind of MFA we thinking of? (e.g. tokens, SMS)
