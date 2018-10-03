@@ -6,3 +6,8 @@ Common questions and answers regarding the technology that is used and managed b
 The idea behind this repository is that questions and answers will be written using "documentation as code" principles.
 
 That
+
+## Index
+
+* [Automation](content/automation-devops)
+* [Identity Management](content/identity-management)
